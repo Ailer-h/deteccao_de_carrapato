@@ -5,11 +5,11 @@ This project is a prototype of a image recognition software aimed to detect the 
 
 - Python;
 - YOLO5;
-- Various libraries that can be found in requirements.txt.
+- Various libraries that can be found in [requirements.txt](https://github.com/Ailer-h/carrapato/blob/main/requirements.txt).
 
 To acquire the official YOLO5 distribution, run the following command on your terminal:
 
-    $ git clone https://github.com/ultralytics/yolov5
+    git clone https://github.com/ultralytics/yolov5
 
 For more info, check the official YOLO repository [here](https://github.com/ultralytics/yolov5).
 
